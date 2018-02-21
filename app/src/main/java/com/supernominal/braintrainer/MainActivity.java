@@ -35,6 +35,7 @@ public class MainActivity extends AppCompatActivity {
     ConstraintLayout gameConstraintLayout;
     TextView timerTextView;
     TextView finalScoreTextView;
+    
 
     public void startGame(View view ) {
 
